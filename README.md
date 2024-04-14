@@ -1,7 +1,7 @@
 # Amazon-Sales-Dashboard
 Description:
 
-Our project revolves around the development of a comprehensive dashboard tailored to analyze Amazon sales data. By aggregating and visualizing key metrics and trends, our dashboard empowers users to gain actionable insights into their sales performance, identify growth opportunities, and make informed business decisions.
+Our project revolves around the development of a comprehensive dashboard tailored to analyze Amazon sales data using Power BI. By aggregating and visualizing key metrics and trends, our dashboard empowers users to gain actionable insights into their sales performance, identify growth opportunities, and make informed business decisions.
 
 Key Features:
 
